@@ -1,0 +1,1 @@
+# ComfyUI-Metadata-Extractor
