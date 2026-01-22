@@ -29,7 +29,7 @@ Documentation = "https://github.com/ai-joe-git/ComfyUI-Metadata-Extractor/wiki"
 "Bug Tracker" = "https://github.com/ai-joe-git/ComfyUI-Metadata-Extractor/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "ai-joe-git"
 DisplayName = "ComfyUI-Metadata-Extractor"
 Icon = ""
 includes = [] 
